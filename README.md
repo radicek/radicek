@@ -1,4 +1,4 @@
-Hi, in recent years, my contributions have been primarily within private repositories.
+Hi, most of my recent work has been in private repositories.
 
 <!---
 radicek/radicek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
